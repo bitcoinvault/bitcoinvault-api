@@ -4,7 +4,7 @@ flask-mongoengine
 itsdangerous==0.24
 Jinja2>=2.10.1
 MarkupSafe>=1.0
-gunicorn==20.0.4
+gunicorn==22.0.0
 Werkzeug>=0.15.3
 mongoengine
 requests
